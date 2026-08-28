@@ -1,7 +1,7 @@
 %global python3_pkgversion 3
 
 Name:           lithuanian-eid
-Version:        0.1.0
+Version:        0.2.0
 Release:        1%{?dist}
 Summary:        Lithuanian electronic ID tools
 
